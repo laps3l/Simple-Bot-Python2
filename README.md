@@ -1,2 +1,2 @@
 # Simple-Bot-Python2
-Simple bot coded with python2
+Simple telegram bot coded with python2
